@@ -2,3 +2,4 @@ kutya
 cica
 mokus
 panda
+koala
